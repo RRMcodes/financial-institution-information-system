@@ -1,0 +1,16 @@
+NICASIA Bank,Baneshwor,A,9,100000,Yes
+NABIL Bank,Beena Marga,A,8,200000,Yes
+Himalayan Bank,Kamaladi,A,9,300000,Yes
+Kumari Bank,durbarmarg,A,10,100000, Yes
+Citizens Bank,Narayanhitipath,A,8,110000,Yes
+Garima Bikas Bank,Lazimpath,B,11,130000,Yes
+Muktinath Bikas Bank,Kamaladi,B,10,90000,Yes
+Jyoti Bikas Bank,Kamaladi,B,10,100000,Yes
+Kanchan Development Bank,Mahendranagar,B,9,50000,No
+Nepal Finance,Kamaladi,C,11,40000,No
+United Finance,Durbarmarg,C,11,60000,No
+Summit Laghubitta,Dhalkebar,D,12,150000,No
+Samata Laghubitta, Putalibazar,D,12,120000,No
+Sunrise Bank,RaniPokhari,A,8,100000,Yes
+Prime Bank,Baneshwor,A,9,200000,Yes
+Siddharta Bank,Tinkune,A,10,300000,Yes
